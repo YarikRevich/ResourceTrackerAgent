@@ -1,0 +1,10 @@
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/Deploy.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/formatter/OutputType.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/App.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/formatter/OutputBuilder.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/kafka/KafkaProducerWrapper.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/context/ContextService.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/reporter/Reporter.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/exception/RequestException.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/formatter/OutputFormatter.java
+/Volumes/Files/java/ResourceTrackerAgent/src/main/java/com/resourcetracker/service/formatter/IOutputBuilder.java
